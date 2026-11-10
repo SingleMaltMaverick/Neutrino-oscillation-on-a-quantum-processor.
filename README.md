@@ -109,6 +109,8 @@ At small *L/E* only the larger splitting Δm²<sub>31</sub> has had time to act,
 └── requirements.txt
 ```
 
+The PDF is the thesis as submitted, with the handwritten signatures and my student registration number removed from the certificate and declaration pages.
+
 **[`neutrino_oscillation_circuits.ipynb`](notebooks/neutrino_oscillation_circuits.ipynb)**
 
 | Section | Content | Thesis figures |
